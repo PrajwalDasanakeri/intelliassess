@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pytest
+pytest-cov
+pytest-asyncio
+pytest-mock
+pydantic
+pydantic-settings
+python-dotenv
+ollama
